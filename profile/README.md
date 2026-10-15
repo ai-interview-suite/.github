@@ -8,7 +8,7 @@ recommendation.
 
 | | URL |
 | --- | --- |
-| App | https://ai-interview-suite-front.vercel.app |
+| App | https://aiinterviewsuite.vercel.app |
 | API | https://ai-interview-suite-api.onrender.com |
 | API docs | https://ai-interview-suite-api.onrender.com/docs |
 
